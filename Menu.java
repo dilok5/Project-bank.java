@@ -80,7 +80,7 @@ public class Menu {
                     break;
 
                 case 3:
-                    System.out.print("Informe o valor que deseja depositar");
+                    System.out.print("Informe o valor que deseja depositar: ");
                     double valorDeposito = scanner.nextDouble();
                     scanner.nextLine();
                     conta.realizarDeposito(valorDeposito);
