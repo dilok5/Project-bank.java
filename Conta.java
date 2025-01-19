@@ -115,7 +115,7 @@ public class Conta {
     }
 
     public void consultarSaldo(){
-        System.out.println("O saldo disponível na conta é: ");
+        System.out.println("O saldo disponível na conta é: " + this.saldo);
     }
 
     public void adicionarList(Conta conta){
