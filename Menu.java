@@ -46,8 +46,6 @@ public class Menu {
                 case 3:
                     exit = true;
                     break;
-
-
             }
         }
     }
@@ -97,12 +95,4 @@ public class Menu {
             }
         }
     }
-
-
-
-
-
-
-
-
 }
