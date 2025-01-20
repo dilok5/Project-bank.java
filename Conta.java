@@ -159,18 +159,9 @@ public class Conta {
         this.agencia = agencia;
     }
 
-
-
     public void transferir(){
 
     }
-
-
-
-
-
-
-
 
 }
 
